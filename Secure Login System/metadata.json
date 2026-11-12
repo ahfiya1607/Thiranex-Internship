@@ -1,0 +1,6 @@
+{
+  "name": "AegisLock - Secure Login & Identity Protection System",
+  "description": "Production-grade authentication web app featuring bcrypt password hashing, SQL injection mitigation with parameterized queries, session lifecycle control, and Two-Factor Authentication (TOTP 2FA).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
